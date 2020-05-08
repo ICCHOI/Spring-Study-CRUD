@@ -8,7 +8,7 @@ Projcet 설계
 
 * CRUD 학생명단 만들기
     * 학생 정보는 추가 가능 해야 합니다 (Create)
-    * 등록된 모든 학생 정보는 출력 될 수 있어야 합니다.. (Read) ~~Remove~~
+    * 등록된 모든 학생 정보는 출력 될 수 있어야 합니다.. (Read)
     * 개별 학생정보를 수정 할 수 있어야 합니다. (Update)
     * 개별 학생정보는 삭제 할 수 있어야 합니다. (Delete) 
 
@@ -48,6 +48,15 @@ Projcet 설계
 9. Check
 
 10. Done!
+</details>
+
+<br>
+
+<details>
+    <summary>과제 #2</summary>
+    <h3>간단한 이력서 페이지 만들기</h3>
+
+
 </details>
 
 Reference
